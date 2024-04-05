@@ -3,7 +3,7 @@
     'name': "QR Code Generator",
     'summary': """Integrated QR code generator within the odoo framework.""",
     'description': """Helps to generate QR codes for texts or large urls.""",
-    'version': '15.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Tools',
     'author': "Kripal K",
     'website': "https://www.linkedin.com/in/kripal754/",
